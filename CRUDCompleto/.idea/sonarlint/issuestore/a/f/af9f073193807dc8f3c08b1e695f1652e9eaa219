@@ -1,0 +1,15 @@
+
+l
+java:S20952"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(òñÈ”8‚¾³Ë›/
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ÇäÞŸûÿÿÿÿ8œ¨·Ë›/
+£
+java:S1186f"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ï«ýñÿÿÿÿÿ8´©¸Ë›/
+F
+java:S2115")Add password protection to this database.(î†¢ú8‡Ê½Ë›/
+ž
+java:S1186b"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(€šÅë8´©¸Ë›/
+l
+java:S2095G"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÐÀö8‚¾³Ë›/
+£
+java:S1186^"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼…å»øÿÿÿÿ8œ¨·Ë›/

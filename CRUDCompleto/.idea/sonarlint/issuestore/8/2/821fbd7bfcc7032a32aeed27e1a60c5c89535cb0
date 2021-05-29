@@ -1,0 +1,94 @@
+
+F
+java:S1172"*Remove this unused method parameter "evt".(÷Ü¦ßúÿÿÿÿ
+F
+java:S1172¸"*Remove this unused method parameter "evt".(ø¨Ì¾ûÿÿÿÿ
+m
+java:S1450‰"VRemove the "jLabel5" field and declare it as a local variable in the relevant methods.(ó Ù®
+A
+java:S1172«"*Remove this unused method parameter "evt".(è¿é¦
+A
+java:S1172Ä"*Remove this unused method parameter "evt".(Üæ¦‚
+F
+java:S1172Ì"*Remove this unused method parameter "evt".(ËöÙøÿÿÿÿ
+C
+java:S1604y"(Make this anonymous inner class a lambda(ŒÁÃÒùÿÿÿÿ
+m
+java:S1450ˆ"VRemove the "jLabel4" field and declare it as a local variable in the relevant methods.(«¢•ã
+Q	java:S110"<This class has 6 parents which is greater than 5 authorized.(ğŠ•É
+C
+java:S1604]"(Make this anonymous inner class a lambda(üåêøÿÿÿÿ
+P
+java:S11618":Add the "@Override" annotation above this method signature(œúüæ
+W	java:S125‘"<This block of commented-out lines of code should be removed.(¸«ÙÑÿÿÿÿÿ
+A
+java:S1172—"*Remove this unused method parameter "evt".(ê‚
+N
+java:S1135¹"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+N
+java:S1135É"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+\
+java:S2147é"ECombine this catch with the one at line 357, which has the same body.(ã€ 
+T
+java:S1197Ô"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+F
+java:S1172ï"*Remove this unused method parameter "evt".(¹¾ûüÿÿÿÿ
+[
+java:S2147ë"ECombine this catch with the one at line 357, which has the same body.(ñÎ¯%
+=
+java:S1604V"(Make this anonymous inner class a lambda(¥Šîj
+r
+java:S1450†"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+r
+java:S1450‡"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ
+A
+java:S1172È"*Remove this unused method parameter "evt".(¡àÍ…
+N
+java:S1135Å"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+n
+java:S1450‚"WRemove the "jButton7" field and declare it as a local variable in the relevant methods.(İöÏÒ
+A
+java:S1172›"*Remove this unused method parameter "evt".(™ÃŠñ
+n
+java:S1450ƒ"WRemove the "jButton8" field and declare it as a local variable in the relevant methods.(ç™Ôô
+R	java:S125˜"<This block of commented-out lines of code should be removed.(¼¼¬‰
+\
+java:S2147ç"ECombine this catch with the one at line 357, which has the same body.(¨¦Š½
+C
+java:S1604H"(Make this anonymous inner class a lambda(…æ©âÿÿÿÿÿ
+@
+java:S1172ü"*Remove this unused method parameter "evt".(Š–ÿG
+C
+java:S1604r"(Make this anonymous inner class a lambda(ÕÜÜ«ûÿÿÿÿ
+N
+java:S1135Í"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+>
+java:S1604O"(Make this anonymous inner class a lambda(ÿóÎ×
+C
+java:S1604d"(Make this anonymous inner class a lambda(‹ıÉ¼üÿÿÿÿ
+n
+java:S1450"WRemove the "jButton6" field and declare it as a local variable in the relevant methods.(á®İş
+A
+java:S1172ë"*Remove this unused method parameter "evt".(‚À‡ä
+D
+java:S1604ó"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+n
+java:S1450ü"WRemove the "jButton1" field and declare it as a local variable in the relevant methods.(å……¶
+>
+java:S1604€"(Make this anonymous inner class a lambda(ÔÑ»
+s
+java:S1450ş"WRemove the "jButton3" field and declare it as a local variable in the relevant methods.(ĞäğËıÿÿÿÿ
+C
+java:S1604k"(Make this anonymous inner class a lambda(Åûÿ¾øÿÿÿÿ
+s
+java:S1450„"WRemove the "jButton9" field and declare it as a local variable in the relevant methods.(õ©©Âûÿÿÿÿ
+n
+java:S1450ı"WRemove the "jButton2" field and declare it as a local variable in the relevant methods.(¤½ÃÜ
+r
+java:S1450…"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+s
+java:S1450€"WRemove the "jButton5" field and declare it as a local variable in the relevant methods.(â¦Î©ûÿÿÿÿ
+P
+java:S11615":Add the "@Override" annotation above this method signature(Ç’æÌ
+s
+java:S1450ÿ"WRemove the "jButton4" field and declare it as a local variable in the relevant methods.(€„ˆÎÿÿÿÿÿ

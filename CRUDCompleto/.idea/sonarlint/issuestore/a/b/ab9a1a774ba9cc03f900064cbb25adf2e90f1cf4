@@ -1,0 +1,17 @@
+
+f
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(« ¨ωÿÿÿÿ
+k	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(τ Ϋίϊÿÿÿÿ
+<	java:S1315""Add a default case to this switch.(« ¨ωÿÿÿÿ
+k	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(τ Ϋίϊÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Φύÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ς³‹ξϊÿÿÿÿ
+P
+java:S1118
+":Add a private constructor to hide the implicit public one.(δύƒπ
+<	java:S131B""Add a default case to this switch.(« ¨ωÿÿÿÿ
+f
+java:S13015"KReplace this "switch" statement by "if" statements to increase readability.(« ¨ωÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ς³‹ξϊÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Φύÿÿÿÿ
+<	java:S131""Add a default case to this switch.(« ¨ωÿÿÿÿ
